@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Resources/scenes/scenes_ceshi.unity
+  isLoaded: 0
+  isActive: 0
